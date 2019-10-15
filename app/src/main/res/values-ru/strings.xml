@@ -4,19 +4,19 @@
 --><!--          https://asrt.gluege.boerde.de            
 -->
     <string name="action_new_tab">Новая вкладка</string>
-    <string name="action_share">доля</string>
-    <string name="action_history">история</string>
-    <string name="action_bookmarks">закладки</string>
+    <string name="action_share">Поделиться</string>
+    <string name="action_history">История</string>
+    <string name="action_bookmarks">Закладки</string>
     <string name="action_downloads">Загрузки</string>
     <string name="action_add_bookmark">Добавить закладку</string>
     <string name="action_copy">Копировать ссылку</string>
     <string name="action_forward">Вперед</string>
-    <string name="settings">настройки</string>
+    <string name="settings">Настройки</string>
     <string name="location">Доступ к местоположению</string>
     <string name="password">Сохраните ваши пароли</string>
     <string name="agent">Пользовательский агент</string>
     <string name="flash">Включить Adobe Flash</string>
-    <string name="home">домашняя страница</string>
+    <string name="home">Домашняя страница</string>
     <string name="fullscreen">Полноэкранный режим</string>
     <string name="java">Включить JavaScript</string>
     <string name="download">Местоположение загрузки</string>
@@ -31,7 +31,7 @@
     <string name="cookies">Включить куки</string>
     <string name="importbookmarks">Импортировать закладки из браузера</string>
     <string name="size">Размер текста</string>
-    <string name="recommended">рекомендуемые</string>
+    <string name="recommended">Рекомендуемые</string>
     <string name="search">Поисковый движок</string>
     <string name="search_hint">Поиск</string>
     <string name="wideViewPort">Используйте широкий видовой экран</string>
@@ -46,17 +46,17 @@
     <string name="clear_history">Очистить историю браузера</string>
     <string name="dialog_image">Что бы вы хотели сделать с этим изображением?</string>
     <string name="action_download">Скачать</string>
-    <string name="action_open">открыто</string>
+    <string name="action_open">Открыто</string>
     <string name="dialog_link">Что бы вы хотели сделать по этой ссылке?</string>
     <string name="dialog_title_share">Поделиться этой страницей</string>
     <string name="dialog_history_long_press">Что бы вы хотели сделать с этим элементом истории?</string>
     <string name="dialog_bookmark">Что бы вы хотели сделать с этой закладкой?</string>
-    <string name="action_delete">удалять</string>
+    <string name="action_delete">Удалять</string>
     <string name="action_blank">Пустая страница</string>
     <string name="agent_default">По умолчанию</string>
-    <string name="agent_desktop">рабочий стол</string>
-    <string name="agent_mobile">мобильный</string>
-    <string name="agent_custom">изготовленный на заказ</string>
+    <string name="agent_desktop">Рабочий стол</string>
+    <string name="agent_mobile">Мобильный</string>
+    <string name="agent_custom">Свой Юзер Агент</string>
     <string name="title_search_engine">Поисковый движок</string>
     <string name="action_ok">Хорошо</string>
     <string name="dialog_download">Вы хотите скачать этот файл? (%1$s)</string>
@@ -65,30 +65,30 @@
     <string name="title_warning">Предупреждение</string>
     <string name="dialog_adobe_not_installed">Adobe Flash Player не установлен. \ NПожалуйста, установите Flash Player.</string>
     <string name="title_user_agent">Пользовательский агент</string>
-    <string name="title_download_location">Местоположение загрузки</string>
+    <string name="title_download_location">Папка загрузки</string>
     <string name="title_custom_homepage">Пользовательская домашняя страница</string>
     <string name="action_webpage">Страница интернета</string>
-    <string name="title_clear_history">Чистая история</string>
+    <string name="title_clear_history">Очистка истории</string>
     <string name="title_clear_cookies">Очистить куки</string>
     <string name="dialog_history">Хотите очистить историю своего браузера?</string>
     <string name="dialog_cookies">Вы хотите очистить куки браузера?</string>
-    <string name="action_yes">да</string>
-    <string name="action_no">нет</string>
+    <string name="action_yes">Да</string>
+    <string name="action_no">Нет</string>
     <string name="title_text_size">Размер текста</string>
     <string name="size_largest">Самый большой</string>
-    <string name="size_large">большой</string>
+    <string name="size_large">Большой</string>
     <string name="size_normal">Обычный</string>
     <string name="size_small">Небольшой</string>
     <string name="size_smallest">Наименьший</string>
-    <string name="title_error">ошибка</string>
+    <string name="title_error">Ошибка</string>
     <string name="dialog_import_error">Обнаружен браузер для импорта закладок из.</string>
-    <string name="hint_title">заглавие</string>
+    <string name="hint_title">Заглавие</string>
     <string name="hint_url">URL</string>
     <string name="title_edit_bookmark">Изменить закладку</string>
-    <string name="action_edit">редактировать</string>
+    <string name="action_edit">Редактировать</string>
     <string name="action_incognito">Новая вкладка инкогнито</string>
     <string name="action_homepage">По умолчанию</string>
-    <string name="action_back">назад</string>
+    <string name="action_back">Назад</string>
     <string name="action_find">Найти на странице</string>
     <string name="download_pending">Начало загрузки \ u2026</string>
     <string name="cannot_download">Можно загружать только HTTP или HTTPS URL.</string>
@@ -108,7 +108,7 @@
     <string name="message_cache_cleared">Кеш очищен</string>
     <string name="message_import">Закладки были импортированы</string>
     <string name="message_clear_history">История очищена</string>
-    <string name="message_cookies_cleared">Печенье очищено</string>
+    <string name="message_cookies_cleared">Куки удалены</string>
     <string name="max_tabs">Достигнуто максимальное количество вкладок</string>
     <string name="message_text_copied">Текст скопирован в буфер обмена</string>
     <string name="message_link_copied">Ссылка скопирована в буфер обмена</string>
@@ -123,15 +123,15 @@
     <string name="message_certificate_invalid">Сертификат недействителен</string>
     <string name="message_certificate_not_yet_valid">Сертификат еще не действителен</string>
     <string name="message_certificate_untrusted">Сертификат не является доверенным</string>
-    <string name="title_form_resubmission">Форма повторной подачи</string>
+    <string name="title_form_resubmission">Форма повторной отправки</string>
     <string name="message_form_resubmission">Вы хотите отправить отправленные данные?</string>
     <string name="message_location">\ nХотите использовать ваше местоположение</string>
     <string name="action_allow">Разрешать</string>
-    <string name="action_dont_allow">Не позволяйте</string>
-    <string name="title_sign_in">войти в систему</string>
+    <string name="action_dont_allow">Не позволять</string>
+    <string name="title_sign_in">Войти в систему</string>
     <string name="label_realm">Сообщение сервера: %s</string>
-    <string name="hint_username">имя пользователя</string>
-    <string name="hint_password">пароль</string>
+    <string name="hint_username">Имя пользователя</string>
+    <string name="hint_password">Пароль</string>
     <string name="search_suggestions">Поиск предложений</string>
     <string name="powered_by_google">Google</string>
     <string name="powered_by_duck">DuckDuckGo</string>
@@ -151,11 +151,11 @@
     <string name="ssl_info_expires_on">Годен до</string>
 
     
-    <string name="ssl_warning_dont_ask_again">Не спрашивайте снова для этого сеанса просмотра.</string>
+    <string name="ssl_warning_dont_ask_again">Не спрашивайть снова для этого сеанса просмотра.</string>
 
     
     <string name="dialog_tools_title">Инструменты страницы</string>
-    <string name="dialog_toggle_desktop">Переключить настольный пользовательский агент</string>
+    <string name="dialog_toggle_desktop">Переключить на полноэкранную версию </string>
     <string name="dialog_adblock_enable_for_site">Включить рекламный блок для сайта</string>
     <string name="dialog_adblock_disable_for_site">Отключить рекламный блок для сайта</string>
 
@@ -169,9 +169,9 @@
     </string-array>
     <string-array name="password_set_array">
         <item>Никто</item>
-        <item>изготовленный на заказ</item>
+        <item>Использовать свои</item>
     </string-array>
-    <string name="manual_proxy">Ручной прокси</string>
+    <string name="manual_proxy">Ручные прокси</string>
     <string name="host">Ведущий:</string>
     <string name="port">Порт:</string>
     <string name="use_tor_prompt">Похоже, у вас установлен Orbot. Вы хотите использовать Tor?</string>
@@ -179,12 +179,12 @@
     <string name="install_orbot">Установите Orbot для прокси с Tor.spac</string>
     <string name="i2p_not_running">I2P не работает.</string>
     <string name="i2p_tunnels_not_ready">Туннели I2P еще не готовы.</string>
-    <string name="yes">да</string>
-    <string name="no">нет</string>
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
     <string name="clear_cookies_exit">Очистить куки на выходе</string>
     <string name="clear_history_exit">Очистить историю при выходе</string>
     <string name="folder_default">По умолчанию</string>
-    <string name="folder_custom">изготовленный на заказ</string>
+    <string name="folder_custom">Использовать свои</string>
     <string name="untitled">Без названия</string>
     <string name="mpl_license">Общественная лицензия Mozilla 2.0</string>
     <string name="freeware">Freeware</string>
@@ -192,7 +192,7 @@
     <string name="hphosts_ad_server_list">Список серверов объявлений hpHosts</string>
     <string name="deleted_tab">Открыта старая вкладка</string>
     <string name="rendering_mode">Режим рендеринга</string>
-    <string name="name_inverted">перевернутый</string>
+    <string name="name_inverted">Перевернуть</string>
     <string name="name_grayscale">Оттенки серого</string>
     <string name="name_inverted_grayscale">Перевернутая шкала серого</string>
     <string name="name_increase_contrast">Увеличить контраст</string>
@@ -209,13 +209,13 @@
     <string name="settings_bookmark_explain">Экспорт и импорт ...</string>
     <string name="import_bookmark_error">Не удалось импортировать закладки из файла</string>
     <string name="title_chooser">Выберите файл</string>
-    <string name="settings_general">общие настройки</string>
+    <string name="settings_general">Общие настройки</string>
     <string name="settings_general_explain">Блокировщик рекламы, поисковая система, домашняя страница ...</string>
     <string name="settings_display">Настройки экрана</string>
     <string name="settings_display_explain">Полноэкранный режим, размер текста, темы ...</string>
     <string name="settings_privacy">Настройки конфиденциальности и безопасности</string>
-    <string name="settings_privacy_explain">Кеш, печенье, история…</string>
-    <string name="settings_about">Около</string>
+    <string name="settings_privacy_explain">Кеш, куки, история…</string>
+    <string name="settings_about">О нас</string>
     <string name="settings_about_explain">Номер версии, автор и лицензия ...</string>
     <string name="close_tab">Закрыть текущая вкладка</string>
     <string name="close_all_tabs">Закройте все вкладки</string>
@@ -246,8 +246,8 @@
     <string name="yellow_theme">Желтая тема</string>
     <string name="green_theme">Зеленая тема</string>
     <string name="folder">Имя папки</string>
-    <string name="action_folder">скоросшиватель</string>
-    <string name="action_rename">переименовывать</string>
+    <string name="action_folder">Папка</string>
+    <string name="action_rename">Переименовать</string>
     <string name="title_rename_folder">Переименовать папку</string>
     <string name="dialog_folder">Что бы вы хотели сделать с этой папкой?</string>
     <string name="clear_web_storage">Очистить веб-хранилище</string>
@@ -259,7 +259,7 @@
     <string name="adblock_category">Рекламный блок</string>
     <string name="cookie_category">Диалоговое окно Cookie</string>
     <string name="tabs_in_drawer">Показать вкладки в окне навигации</string>
-    <string name="swap_bookmarks_and_tabs">Поменяйте местами закладки и закладки</string>
+    <string name="swap_bookmarks_and_tabs">Поменяйте местами закладки и вкладки</string>
     <string name="do_not_track">Запрос \ "Не отслеживать \"</string>
     <string name="remove_identifying_headers">Удалить идентифицирующие заголовки HTTP</string>
     <string name="action_add_to_homescreen">Добавить на домашний экран</string>
@@ -319,7 +319,7 @@
 
     
     <string name="title_permission_request">Запрос на разрешение</string>
-    <string name="message_permission_request">%1$s \n \n хотелось бы использовать: \n \n %2$s</string>
+    <string name="message_permission_request">%1$s \n \n Хотелось бы использовать: \n \n %2$s</string>
 
     
     <string name="block_ad_source">Источник файла хостов</string>
@@ -352,7 +352,7 @@
     
     <string name="search_engine_custom">Пользовательский URL</string>
     <string name="search_engine_google">Google</string>
-    <string name="search_engine_ask">Просить</string>
+    <string name="search_engine_ask">Ask</string>
     <string name="search_engine_bing">Bing</string>
     <string name="search_engine_yahoo">Yahoo</string>
     <string name="search_engine_startpage" translatable="false">StartPage</string>
@@ -363,8 +363,8 @@
     <string name="search_engine_yandex">Яндекс</string>
 
     <string name="title_activity_welcome">Домашний экран</string>
-    <string name="next">следующий</string>
-    <string name="skip">Пропускать</string>
+    <string name="next">Cледующий</string>
+    <string name="skip">Пропустить</string>
     <string name="start">Понял</string>
 
     <string name="slide_1_title">Добро пожаловать в SmartCookie 5.0</string>
